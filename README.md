@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ohmaegod
-- 👀 I’m interested in data science, crochet, and logic based puzzles
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data science, machine learning, times - series, and logic based puzzles
+- 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on anything! i love to learn new things
 - 📫 How to reach me maeoheyo@gmail.com
 - 😄 Pronouns: she/her
